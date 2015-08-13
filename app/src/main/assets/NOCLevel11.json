@@ -1,0 +1,2762 @@
+[
+  {
+    "FIELD1":"0",
+    "FIELD2":"Management occupations"
+  },
+  {
+    "FIELD1":"00",
+    "FIELD2":"Senior management occupations"
+  },
+  {
+    "FIELD1":"001",
+    "FIELD2":"Legislators and senior management"
+  },
+  {
+    "FIELD1":"0011",
+    "FIELD2":"Legislators"
+  },
+  {
+    "FIELD1":"0012",
+    "FIELD2":"Senior government managers and officials"
+  },
+  {
+    "FIELD1":"0013",
+    "FIELD2":"Senior managers - financial, communications and other business services"
+  },
+  {
+    "FIELD1":"0014",
+    "FIELD2":"Senior managers - health, education, social and community services and membership organizations"
+  },
+  {
+    "FIELD1":"0015",
+    "FIELD2":"Senior managers - trade, broadcasting and other services, n.e.c."
+  },
+  {
+    "FIELD1":"0016",
+    "FIELD2":"Senior managers - construction, transportation, production and utilities"
+  },
+  {
+    "FIELD1":"01-05",
+    "FIELD2":"Specialized middle management occupations"
+  },
+  {
+    "FIELD1":"011",
+    "FIELD2":"Administrative services managers"
+  },
+  {
+    "FIELD1":"0111",
+    "FIELD2":"Financial managers"
+  },
+  {
+    "FIELD1":"0112",
+    "FIELD2":"Human resources managers"
+  },
+  {
+    "FIELD1":"0113",
+    "FIELD2":"Purchasing managers"
+  },
+  {
+    "FIELD1":"0114",
+    "FIELD2":"Other administrative services managers"
+  },
+  {
+    "FIELD1":"012",
+    "FIELD2":"Managers in financial and business services"
+  },
+  {
+    "FIELD1":"0121",
+    "FIELD2":"Insurance, real estate and financial brokerage managers"
+  },
+  {
+    "FIELD1":"0122",
+    "FIELD2":"Banking, credit and other investment managers"
+  },
+  {
+    "FIELD1":"0124",
+    "FIELD2":"Advertising, marketing and public relations managers"
+  },
+  {
+    "FIELD1":"0125",
+    "FIELD2":"Other business services managers"
+  },
+  {
+    "FIELD1":"013",
+    "FIELD2":"Managers in communication (except broadcasting)"
+  },
+  {
+    "FIELD1":"0131",
+    "FIELD2":"Telecommunication carriers managers"
+  },
+  {
+    "FIELD1":"0132",
+    "FIELD2":"Postal and courier services managers"
+  },
+  {
+    "FIELD1":"021",
+    "FIELD2":"Managers in engineering, architecture, science and information systems"
+  },
+  {
+    "FIELD1":"0211",
+    "FIELD2":"Engineering managers"
+  },
+  {
+    "FIELD1":"0212",
+    "FIELD2":"Architecture and science managers"
+  },
+  {
+    "FIELD1":"0213",
+    "FIELD2":"Computer and information systems managers"
+  },
+  {
+    "FIELD1":"031",
+    "FIELD2":"Managers in health care"
+  },
+  {
+    "FIELD1":"0311",
+    "FIELD2":"Managers in health care"
+  },
+  {
+    "FIELD1":"041",
+    "FIELD2":"Managers in public administration"
+  },
+  {
+    "FIELD1":"0411",
+    "FIELD2":"Government managers - health and social policy development and program administration"
+  },
+  {
+    "FIELD1":"0412",
+    "FIELD2":"Government managers - economic analysis, policy development and program administration"
+  },
+  {
+    "FIELD1":"0413",
+    "FIELD2":"Government managers - education policy development and program administration"
+  },
+  {
+    "FIELD1":"0414",
+    "FIELD2":"Other managers in public administration"
+  },
+  {
+    "FIELD1":"042",
+    "FIELD2":"Managers in education and social and community services"
+  },
+  {
+    "FIELD1":"0421",
+    "FIELD2":"Administrators - post-secondary education and vocational training"
+  },
+  {
+    "FIELD1":"0422",
+    "FIELD2":"School principals and administrators of elementary and secondary education"
+  },
+  {
+    "FIELD1":"0423",
+    "FIELD2":"Managers in social, community and correctional services"
+  },
+  {
+    "FIELD1":"043",
+    "FIELD2":"Managers in public protection services"
+  },
+  {
+    "FIELD1":"0431",
+    "FIELD2":"Commissioned police officers"
+  },
+  {
+    "FIELD1":"0432",
+    "FIELD2":"Fire chiefs and senior firefighting officers"
+  },
+  {
+    "FIELD1":"0433",
+    "FIELD2":"Commissioned officers of the Canadian Forces"
+  },
+  {
+    "FIELD1":"051",
+    "FIELD2":"Managers in art, culture, recreation and sport"
+  },
+  {
+    "FIELD1":"0511",
+    "FIELD2":"Library, archive, museum and art gallery managers"
+  },
+  {
+    "FIELD1":"0512",
+    "FIELD2":"Managers - publishing, motion pictures, broadcasting and performing arts"
+  },
+  {
+    "FIELD1":"0513",
+    "FIELD2":"Recreation, sports and fitness program and service directors"
+  },
+  {
+    "FIELD1":"06",
+    "FIELD2":"Middle management occupations in retail and wholesale trade and customer services"
+  },
+  {
+    "FIELD1":"060",
+    "FIELD2":"Corporate sales managers"
+  },
+  {
+    "FIELD1":"0601",
+    "FIELD2":"Corporate sales managers"
+  },
+  {
+    "FIELD1":"062",
+    "FIELD2":"Retail and wholesale trade managers"
+  },
+  {
+    "FIELD1":"0621",
+    "FIELD2":"Retail and wholesale trade managers"
+  },
+  {
+    "FIELD1":"063",
+    "FIELD2":"Managers in food service and accommodation"
+  },
+  {
+    "FIELD1":"0631",
+    "FIELD2":"Restaurant and food service managers"
+  },
+  {
+    "FIELD1":"0632",
+    "FIELD2":"Accommodation service managers"
+  },
+  {
+    "FIELD1":"065",
+    "FIELD2":"Managers in customer and personal services, n.e.c."
+  },
+  {
+    "FIELD1":"0651",
+    "FIELD2":"Managers in customer and personal services, n.e.c."
+  },
+  {
+    "FIELD1":"07-09",
+    "FIELD2":"Middle management occupations in trades, transportation, production and utilities"
+  },
+  {
+    "FIELD1":"071",
+    "FIELD2":"Managers in construction and facility operation and maintenance"
+  },
+  {
+    "FIELD1":"0711",
+    "FIELD2":"Construction managers"
+  },
+  {
+    "FIELD1":"0712",
+    "FIELD2":"Home building and renovation managers"
+  },
+  {
+    "FIELD1":"0714",
+    "FIELD2":"Facility operation and maintenance managers"
+  },
+  {
+    "FIELD1":"073",
+    "FIELD2":"Managers in transportation"
+  },
+  {
+    "FIELD1":"0731",
+    "FIELD2":"Managers in transportation"
+  },
+  {
+    "FIELD1":"081",
+    "FIELD2":"Managers in natural resources production and fishing"
+  },
+  {
+    "FIELD1":"0811",
+    "FIELD2":"Managers in natural resources production and fishing"
+  },
+  {
+    "FIELD1":"082",
+    "FIELD2":"Managers in agriculture, horticulture and aquaculture"
+  },
+  {
+    "FIELD1":"0821",
+    "FIELD2":"Managers in agriculture"
+  },
+  {
+    "FIELD1":"0822",
+    "FIELD2":"Managers in horticulture"
+  },
+  {
+    "FIELD1":"0823",
+    "FIELD2":"Managers in aquaculture"
+  },
+  {
+    "FIELD1":"091",
+    "FIELD2":"Managers in manufacturing and utilities"
+  },
+  {
+    "FIELD1":"0911",
+    "FIELD2":"Manufacturing managers"
+  },
+  {
+    "FIELD1":"0912",
+    "FIELD2":"Utilities managers"
+  },
+  {
+    "FIELD1":"1",
+    "FIELD2":"Business, finance and administration occupations"
+  },
+  {
+    "FIELD1":"11",
+    "FIELD2":"Professional occupations in business and finance"
+  },
+  {
+    "FIELD1":"111",
+    "FIELD2":"Auditors, accountants and investment professionals"
+  },
+  {
+    "FIELD1":"1111",
+    "FIELD2":"Financial auditors and accountants"
+  },
+  {
+    "FIELD1":"1112",
+    "FIELD2":"Financial and investment analysts"
+  },
+  {
+    "FIELD1":"1113",
+    "FIELD2":"Securities agents, investment dealers and brokers"
+  },
+  {
+    "FIELD1":"1114",
+    "FIELD2":"Other financial officers"
+  },
+  {
+    "FIELD1":"112",
+    "FIELD2":"Human resources and business service professionals"
+  },
+  {
+    "FIELD1":"1121",
+    "FIELD2":"Human resources professionals"
+  },
+  {
+    "FIELD1":"1122",
+    "FIELD2":"Professional occupations in business management consulting"
+  },
+  {
+    "FIELD1":"1123",
+    "FIELD2":"Professional occupations in advertising, marketing and public relations"
+  },
+  {
+    "FIELD1":"12",
+    "FIELD2":"Administrative and financial supervisors and administrative occupations"
+  },
+  {
+    "FIELD1":"121",
+    "FIELD2":"Administrative services supervisors"
+  },
+  {
+    "FIELD1":"1211",
+    "FIELD2":"Supervisors, general office and administrative support workers"
+  },
+  {
+    "FIELD1":"1212",
+    "FIELD2":"Supervisors, finance and insurance office workers"
+  },
+  {
+    "FIELD1":"1213",
+    "FIELD2":"Supervisors, library, correspondence and related information workers"
+  },
+  {
+    "FIELD1":"1214",
+    "FIELD2":"Supervisors, mail and message distribution occupations"
+  },
+  {
+    "FIELD1":"1215",
+    "FIELD2":"Supervisors, supply chain, tracking and scheduling co-ordination occupations"
+  },
+  {
+    "FIELD1":"122",
+    "FIELD2":"Administrative and regulatory occupations"
+  },
+  {
+    "FIELD1":"1221",
+    "FIELD2":"Administrative officers"
+  },
+  {
+    "FIELD1":"1222",
+    "FIELD2":"Executive assistants"
+  },
+  {
+    "FIELD1":"1223",
+    "FIELD2":"Human resources and recruitment officers"
+  },
+  {
+    "FIELD1":"1224",
+    "FIELD2":"Property administrators"
+  },
+  {
+    "FIELD1":"1225",
+    "FIELD2":"Purchasing agents and officers"
+  },
+  {
+    "FIELD1":"1226",
+    "FIELD2":"Conference and event planners"
+  },
+  {
+    "FIELD1":"1227",
+    "FIELD2":"Court officers and justices of the peace"
+  },
+  {
+    "FIELD1":"1228",
+    "FIELD2":"Employment insurance, immigration, border services and revenue officers"
+  },
+  {
+    "FIELD1":"124",
+    "FIELD2":"Office administrative assistants - general, legal and medical"
+  },
+  {
+    "FIELD1":"1241",
+    "FIELD2":"Administrative assistants"
+  },
+  {
+    "FIELD1":"1242",
+    "FIELD2":"Legal administrative assistants"
+  },
+  {
+    "FIELD1":"1243",
+    "FIELD2":"Medical administrative assistants"
+  },
+  {
+    "FIELD1":"125",
+    "FIELD2":"Court reporters, transcriptionists, records management technicians and statistical officers"
+  },
+  {
+    "FIELD1":"1251",
+    "FIELD2":"Court reporters, medical transcriptionists and related occupations"
+  },
+  {
+    "FIELD1":"1252",
+    "FIELD2":"Health information management occupations"
+  },
+  {
+    "FIELD1":"1253",
+    "FIELD2":"Records management technicians"
+  },
+  {
+    "FIELD1":"1254",
+    "FIELD2":"Statistical officers and related research support occupations"
+  },
+  {
+    "FIELD1":"13",
+    "FIELD2":"Finance, insurance and related business administrative occupations"
+  },
+  {
+    "FIELD1":"131",
+    "FIELD2":"Finance, insurance and related business administrative occupations"
+  },
+  {
+    "FIELD1":"1311",
+    "FIELD2":"Accounting technicians and bookkeepers"
+  },
+  {
+    "FIELD1":"1312",
+    "FIELD2":"Insurance adjusters and claims examiners"
+  },
+  {
+    "FIELD1":"1313",
+    "FIELD2":"Insurance underwriters"
+  },
+  {
+    "FIELD1":"1314",
+    "FIELD2":"Assessors, valuators and appraisers"
+  },
+  {
+    "FIELD1":"1315",
+    "FIELD2":"Customs, ship and other brokers"
+  },
+  {
+    "FIELD1":"14",
+    "FIELD2":"Office support occupations"
+  },
+  {
+    "FIELD1":"141",
+    "FIELD2":"General office workers"
+  },
+  {
+    "FIELD1":"1411",
+    "FIELD2":"General office support workers"
+  },
+  {
+    "FIELD1":"1414",
+    "FIELD2":"Receptionists"
+  },
+  {
+    "FIELD1":"1415",
+    "FIELD2":"Personnel clerks"
+  },
+  {
+    "FIELD1":"1416",
+    "FIELD2":"Court clerks"
+  },
+  {
+    "FIELD1":"142",
+    "FIELD2":"Office equipment operators"
+  },
+  {
+    "FIELD1":"1422",
+    "FIELD2":"Data entry clerks"
+  },
+  {
+    "FIELD1":"1423",
+    "FIELD2":"Desktop publishing operators and related occupations"
+  },
+  {
+    "FIELD1":"143",
+    "FIELD2":"Financial, insurance and related administrative support workers"
+  },
+  {
+    "FIELD1":"1431",
+    "FIELD2":"Accounting and related clerks"
+  },
+  {
+    "FIELD1":"1432",
+    "FIELD2":"Payroll clerks"
+  },
+  {
+    "FIELD1":"1434",
+    "FIELD2":"Banking, insurance and other financial clerks"
+  },
+  {
+    "FIELD1":"1435",
+    "FIELD2":"Collectors"
+  },
+  {
+    "FIELD1":"145",
+    "FIELD2":"Library, correspondence and other clerks"
+  },
+  {
+    "FIELD1":"1451",
+    "FIELD2":"Library assistants and clerks"
+  },
+  {
+    "FIELD1":"1452",
+    "FIELD2":"Correspondence, publication and regulatory clerks"
+  },
+  {
+    "FIELD1":"1454",
+    "FIELD2":"Survey interviewers and statistical clerks"
+  },
+  {
+    "FIELD1":"15",
+    "FIELD2":"Distribution, tracking and scheduling co-ordination occupations"
+  },
+  {
+    "FIELD1":"151",
+    "FIELD2":"Mail and message distribution occupations"
+  },
+  {
+    "FIELD1":"1511",
+    "FIELD2":"Mail, postal and related workers"
+  },
+  {
+    "FIELD1":"1512",
+    "FIELD2":"Letter carriers"
+  },
+  {
+    "FIELD1":"1513",
+    "FIELD2":"Couriers, messengers and door-to-door distributors"
+  },
+  {
+    "FIELD1":"152",
+    "FIELD2":"Supply chain logistics, tracking and scheduling co-ordination occupations"
+  },
+  {
+    "FIELD1":"1521",
+    "FIELD2":"Shippers and receivers"
+  },
+  {
+    "FIELD1":"1522",
+    "FIELD2":"Storekeepers and partspersons"
+  },
+  {
+    "FIELD1":"1523",
+    "FIELD2":"Production logistics co-ordinators"
+  },
+  {
+    "FIELD1":"1524",
+    "FIELD2":"Purchasing and inventory control workers"
+  },
+  {
+    "FIELD1":"1525",
+    "FIELD2":"Dispatchers"
+  },
+  {
+    "FIELD1":"1526",
+    "FIELD2":"Transportation route and crew schedulers"
+  },
+  {
+    "FIELD1":"2",
+    "FIELD2":"Natural and applied sciences and related occupations"
+  },
+  {
+    "FIELD1":"21",
+    "FIELD2":"Professional occupations in natural and applied sciences"
+  },
+  {
+    "FIELD1":"211",
+    "FIELD2":"Physical science professionals"
+  },
+  {
+    "FIELD1":"2111",
+    "FIELD2":"Physicists and astronomers"
+  },
+  {
+    "FIELD1":"2112",
+    "FIELD2":"Chemists"
+  },
+  {
+    "FIELD1":"2113",
+    "FIELD2":"Geoscientists and oceanographers"
+  },
+  {
+    "FIELD1":"2114",
+    "FIELD2":"Meteorologists and climatologists"
+  },
+  {
+    "FIELD1":"2115",
+    "FIELD2":"Other professional occupations in physical sciences"
+  },
+  {
+    "FIELD1":"212",
+    "FIELD2":"Life science professionals"
+  },
+  {
+    "FIELD1":"2121",
+    "FIELD2":"Biologists and related scientists"
+  },
+  {
+    "FIELD1":"2122",
+    "FIELD2":"Forestry professionals"
+  },
+  {
+    "FIELD1":"2123",
+    "FIELD2":"Agricultural representatives, consultants and specialists"
+  },
+  {
+    "FIELD1":"213",
+    "FIELD2":"Civil, mechanical, electrical and chemical engineers"
+  },
+  {
+    "FIELD1":"2131",
+    "FIELD2":"Civil engineers"
+  },
+  {
+    "FIELD1":"2132",
+    "FIELD2":"Mechanical engineers"
+  },
+  {
+    "FIELD1":"2133",
+    "FIELD2":"Electrical and electronics engineers"
+  },
+  {
+    "FIELD1":"2134",
+    "FIELD2":"Chemical engineers"
+  },
+  {
+    "FIELD1":"214",
+    "FIELD2":"Other engineers"
+  },
+  {
+    "FIELD1":"2141",
+    "FIELD2":"Industrial and manufacturing engineers"
+  },
+  {
+    "FIELD1":"2142",
+    "FIELD2":"Metallurgical and materials engineers"
+  },
+  {
+    "FIELD1":"2143",
+    "FIELD2":"Mining engineers"
+  },
+  {
+    "FIELD1":"2144",
+    "FIELD2":"Geological engineers"
+  },
+  {
+    "FIELD1":"2145",
+    "FIELD2":"Petroleum engineers"
+  },
+  {
+    "FIELD1":"2146",
+    "FIELD2":"Aerospace engineers"
+  },
+  {
+    "FIELD1":"2147",
+    "FIELD2":"Computer engineers (except software engineers and designers)"
+  },
+  {
+    "FIELD1":"2148",
+    "FIELD2":"Other professional engineers, n.e.c."
+  },
+  {
+    "FIELD1":"215",
+    "FIELD2":"Architects, urban planners and land surveyors"
+  },
+  {
+    "FIELD1":"2151",
+    "FIELD2":"Architects"
+  },
+  {
+    "FIELD1":"2152",
+    "FIELD2":"Landscape architects"
+  },
+  {
+    "FIELD1":"2153",
+    "FIELD2":"Urban and land use planners"
+  },
+  {
+    "FIELD1":"2154",
+    "FIELD2":"Land surveyors"
+  },
+  {
+    "FIELD1":"216",
+    "FIELD2":"Mathematicians, statisticians and actuaries"
+  },
+  {
+    "FIELD1":"2161",
+    "FIELD2":"Mathematicians, statisticians and actuaries"
+  },
+  {
+    "FIELD1":"217",
+    "FIELD2":"Computer and information systems professionals"
+  },
+  {
+    "FIELD1":"2171",
+    "FIELD2":"Information systems analysts and consultants"
+  },
+  {
+    "FIELD1":"2172",
+    "FIELD2":"Database analysts and data administrators"
+  },
+  {
+    "FIELD1":"2173",
+    "FIELD2":"Software engineers and designers"
+  },
+  {
+    "FIELD1":"2174",
+    "FIELD2":"Computer programmers and interactive media developers"
+  },
+  {
+    "FIELD1":"2175",
+    "FIELD2":"Web designers and developers"
+  },
+  {
+    "FIELD1":"22",
+    "FIELD2":"Technical occupations related to natural and applied sciences"
+  },
+  {
+    "FIELD1":"221",
+    "FIELD2":"Technical occupations in physical sciences"
+  },
+  {
+    "FIELD1":"2211",
+    "FIELD2":"Chemical technologists and technicians"
+  },
+  {
+    "FIELD1":"2212",
+    "FIELD2":"Geological and mineral technologists and technicians"
+  },
+  {
+    "FIELD1":"222",
+    "FIELD2":"Technical occupations in life sciences"
+  },
+  {
+    "FIELD1":"2221",
+    "FIELD2":"Biological technologists and technicians"
+  },
+  {
+    "FIELD1":"2222",
+    "FIELD2":"Agricultural and fish products inspectors"
+  },
+  {
+    "FIELD1":"2223",
+    "FIELD2":"Forestry technologists and technicians"
+  },
+  {
+    "FIELD1":"2224",
+    "FIELD2":"Conservation and fishery officers"
+  },
+  {
+    "FIELD1":"2225",
+    "FIELD2":"Landscape and horticulture technicians and specialists"
+  },
+  {
+    "FIELD1":"223",
+    "FIELD2":"Technical occupations in civil, mechanical and industrial engineering"
+  },
+  {
+    "FIELD1":"2231",
+    "FIELD2":"Civil engineering technologists and technicians"
+  },
+  {
+    "FIELD1":"2232",
+    "FIELD2":"Mechanical engineering technologists and technicians"
+  },
+  {
+    "FIELD1":"2233",
+    "FIELD2":"Industrial engineering and manufacturing technologists and technicians"
+  },
+  {
+    "FIELD1":"2234",
+    "FIELD2":"Construction estimators"
+  },
+  {
+    "FIELD1":"224",
+    "FIELD2":"Technical occupations in electronics and electrical engineering"
+  },
+  {
+    "FIELD1":"2241",
+    "FIELD2":"Electrical and electronics engineering technologists and technicians"
+  },
+  {
+    "FIELD1":"2242",
+    "FIELD2":"Electronic service technicians (household and business equipment)"
+  },
+  {
+    "FIELD1":"2243",
+    "FIELD2":"Industrial instrument technicians and mechanics"
+  },
+  {
+    "FIELD1":"2244",
+    "FIELD2":"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors"
+  },
+  {
+    "FIELD1":"225",
+    "FIELD2":"Technical occupations in architecture, drafting, surveying, geomatics and meteorology"
+  },
+  {
+    "FIELD1":"2251",
+    "FIELD2":"Architectural technologists and technicians"
+  },
+  {
+    "FIELD1":"2252",
+    "FIELD2":"Industrial designers"
+  },
+  {
+    "FIELD1":"2253",
+    "FIELD2":"Drafting technologists and technicians"
+  },
+  {
+    "FIELD1":"2254",
+    "FIELD2":"Land survey technologists and technicians"
+  },
+  {
+    "FIELD1":"2255",
+    "FIELD2":"Technical occupations in geomatics and meteorology"
+  },
+  {
+    "FIELD1":"226",
+    "FIELD2":"Other technical inspectors and regulatory officers"
+  },
+  {
+    "FIELD1":"2261",
+    "FIELD2":"Non-destructive testers and inspection technicians"
+  },
+  {
+    "FIELD1":"2262",
+    "FIELD2":"Engineering inspectors and regulatory officers"
+  },
+  {
+    "FIELD1":"2263",
+    "FIELD2":"Inspectors in public and environmental health and occupational health and safety"
+  },
+  {
+    "FIELD1":"2264",
+    "FIELD2":"Construction inspectors"
+  },
+  {
+    "FIELD1":"227",
+    "FIELD2":"Transportation officers and controllers"
+  },
+  {
+    "FIELD1":"2271",
+    "FIELD2":"Air pilots, flight engineers and flying instructors"
+  },
+  {
+    "FIELD1":"2272",
+    "FIELD2":"Air traffic controllers and related occupations"
+  },
+  {
+    "FIELD1":"2273",
+    "FIELD2":"Deck officers, water transport"
+  },
+  {
+    "FIELD1":"2274",
+    "FIELD2":"Engineer officers, water transport"
+  },
+  {
+    "FIELD1":"2275",
+    "FIELD2":"Railway traffic controllers and marine traffic regulators"
+  },
+  {
+    "FIELD1":"228",
+    "FIELD2":"Technical occupations in computer and information systems"
+  },
+  {
+    "FIELD1":"2281",
+    "FIELD2":"Computer network technicians"
+  },
+  {
+    "FIELD1":"2282",
+    "FIELD2":"User support technicians"
+  },
+  {
+    "FIELD1":"2283",
+    "FIELD2":"Information systems testing technicians"
+  },
+  {
+    "FIELD1":"3",
+    "FIELD2":"Health occupations"
+  },
+  {
+    "FIELD1":"30",
+    "FIELD2":"Professional occupations in nursing"
+  },
+  {
+    "FIELD1":"301",
+    "FIELD2":"Professional occupations in nursing"
+  },
+  {
+    "FIELD1":"3011",
+    "FIELD2":"Nursing co-ordinators and supervisors"
+  },
+  {
+    "FIELD1":"3012",
+    "FIELD2":"Registered nurses and registered psychiatric nurses"
+  },
+  {
+    "FIELD1":"31",
+    "FIELD2":"Professional occupations in health (except nursing)"
+  },
+  {
+    "FIELD1":"311",
+    "FIELD2":"Physicians, dentists and veterinarians"
+  },
+  {
+    "FIELD1":"3111",
+    "FIELD2":"Specialist physicians"
+  },
+  {
+    "FIELD1":"3112",
+    "FIELD2":"General practitioners and family physicians"
+  },
+  {
+    "FIELD1":"3113",
+    "FIELD2":"Dentists"
+  },
+  {
+    "FIELD1":"3114",
+    "FIELD2":"Veterinarians"
+  },
+  {
+    "FIELD1":"312",
+    "FIELD2":"Optometrists, chiropractors and other health diagnosing and treating professionals"
+  },
+  {
+    "FIELD1":"3121",
+    "FIELD2":"Optometrists"
+  },
+  {
+    "FIELD1":"3122",
+    "FIELD2":"Chiropractors"
+  },
+  {
+    "FIELD1":"3124",
+    "FIELD2":"Allied primary health practitioners"
+  },
+  {
+    "FIELD1":"3125",
+    "FIELD2":"Other professional occupations in health diagnosing and treating"
+  },
+  {
+    "FIELD1":"313",
+    "FIELD2":"Pharmacists, dietitians and nutritionists"
+  },
+  {
+    "FIELD1":"3131",
+    "FIELD2":"Pharmacists"
+  },
+  {
+    "FIELD1":"3132",
+    "FIELD2":"Dietitians and nutritionists"
+  },
+  {
+    "FIELD1":"314",
+    "FIELD2":"Therapy and assessment professionals"
+  },
+  {
+    "FIELD1":"3141",
+    "FIELD2":"Audiologists and speech-language pathologists"
+  },
+  {
+    "FIELD1":"3142",
+    "FIELD2":"Physiotherapists"
+  },
+  {
+    "FIELD1":"3143",
+    "FIELD2":"Occupational therapists"
+  },
+  {
+    "FIELD1":"3144",
+    "FIELD2":"Other professional occupations in therapy and assessment"
+  },
+  {
+    "FIELD1":"32",
+    "FIELD2":"Technical occupations in health"
+  },
+  {
+    "FIELD1":"321",
+    "FIELD2":"Medical technologists and technicians (except dental health)"
+  },
+  {
+    "FIELD1":"3211",
+    "FIELD2":"Medical laboratory technologists"
+  },
+  {
+    "FIELD1":"3212",
+    "FIELD2":"Medical laboratory technicians and pathologists' assistants"
+  },
+  {
+    "FIELD1":"3213",
+    "FIELD2":"Animal health technologists and veterinary technicians"
+  },
+  {
+    "FIELD1":"3214",
+    "FIELD2":"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists"
+  },
+  {
+    "FIELD1":"3215",
+    "FIELD2":"Medical radiation technologists"
+  },
+  {
+    "FIELD1":"3216",
+    "FIELD2":"Medical sonographers"
+  },
+  {
+    "FIELD1":"3217",
+    "FIELD2":"Cardiology technologists and electrophysiological diagnostic technologists, n.e.c."
+  },
+  {
+    "FIELD1":"3219",
+    "FIELD2":"Other medical technologists and technicians (except dental health)"
+  },
+  {
+    "FIELD1":"322",
+    "FIELD2":"Technical occupations in dental health care"
+  },
+  {
+    "FIELD1":"3221",
+    "FIELD2":"Denturists"
+  },
+  {
+    "FIELD1":"3222",
+    "FIELD2":"Dental hygienists and dental therapists"
+  },
+  {
+    "FIELD1":"3223",
+    "FIELD2":"Dental technologists, technicians and laboratory assistants"
+  },
+  {
+    "FIELD1":"323",
+    "FIELD2":"Other technical occupations in health care"
+  },
+  {
+    "FIELD1":"3231",
+    "FIELD2":"Opticians"
+  },
+  {
+    "FIELD1":"3232",
+    "FIELD2":"Practitioners of natural healing"
+  },
+  {
+    "FIELD1":"3233",
+    "FIELD2":"Licensed practical nurses"
+  },
+  {
+    "FIELD1":"3234",
+    "FIELD2":"Paramedical occupations"
+  },
+  {
+    "FIELD1":"3236",
+    "FIELD2":"Massage therapists"
+  },
+  {
+    "FIELD1":"3237",
+    "FIELD2":"Other technical occupations in therapy and assessment"
+  },
+  {
+    "FIELD1":"34",
+    "FIELD2":"Assisting occupations in support of health services"
+  },
+  {
+    "FIELD1":"341",
+    "FIELD2":"Assisting occupations in support of health services"
+  },
+  {
+    "FIELD1":"3411",
+    "FIELD2":"Dental assistants"
+  },
+  {
+    "FIELD1":"3413",
+    "FIELD2":"Nurse aides, orderlies and patient service associates"
+  },
+  {
+    "FIELD1":"3414",
+    "FIELD2":"Other assisting occupations in support of health services"
+  },
+  {
+    "FIELD1":"4",
+    "FIELD2":"Occupations in education, law and social, community and government services"
+  },
+  {
+    "FIELD1":"40",
+    "FIELD2":"Professional occupations in education services"
+  },
+  {
+    "FIELD1":"401",
+    "FIELD2":"University professors and post-secondary assistants"
+  },
+  {
+    "FIELD1":"4011",
+    "FIELD2":"University professors and lecturers"
+  },
+  {
+    "FIELD1":"4012",
+    "FIELD2":"Post-secondary teaching and research assistants"
+  },
+  {
+    "FIELD1":"402",
+    "FIELD2":"College and other vocational instructors"
+  },
+  {
+    "FIELD1":"4021",
+    "FIELD2":"College and other vocational instructors"
+  },
+  {
+    "FIELD1":"403",
+    "FIELD2":"Secondary and elementary school teachers and educational counsellors"
+  },
+  {
+    "FIELD1":"4031",
+    "FIELD2":"Secondary school teachers"
+  },
+  {
+    "FIELD1":"4032",
+    "FIELD2":"Elementary school and kindergarten teachers"
+  },
+  {
+    "FIELD1":"4033",
+    "FIELD2":"Educational counsellors"
+  },
+  {
+    "FIELD1":"41",
+    "FIELD2":"Professional occupations in law and social, community and government services"
+  },
+  {
+    "FIELD1":"411",
+    "FIELD2":"Judges, lawyers and Quebec notaries"
+  },
+  {
+    "FIELD1":"4111",
+    "FIELD2":"Judges"
+  },
+  {
+    "FIELD1":"4112",
+    "FIELD2":"Lawyers and Quebec notaries"
+  },
+  {
+    "FIELD1":"415",
+    "FIELD2":"Social and community service professionals"
+  },
+  {
+    "FIELD1":"4151",
+    "FIELD2":"Psychologists"
+  },
+  {
+    "FIELD1":"4152",
+    "FIELD2":"Social workers"
+  },
+  {
+    "FIELD1":"4153",
+    "FIELD2":"Family, marriage and other related counsellors"
+  },
+  {
+    "FIELD1":"4154",
+    "FIELD2":"Professional occupations in religion"
+  },
+  {
+    "FIELD1":"4155",
+    "FIELD2":"Probation and parole officers and related occupations"
+  },
+  {
+    "FIELD1":"4156",
+    "FIELD2":"Employment counsellors"
+  },
+  {
+    "FIELD1":"416",
+    "FIELD2":"Policy and program researchers, consultants and officers"
+  },
+  {
+    "FIELD1":"4161",
+    "FIELD2":"Natural and applied science policy researchers, consultants and program officers"
+  },
+  {
+    "FIELD1":"4162",
+    "FIELD2":"Economists and economic policy researchers and analysts"
+  },
+  {
+    "FIELD1":"4163",
+    "FIELD2":"Business development officers and marketing researchers and consultants"
+  },
+  {
+    "FIELD1":"4164",
+    "FIELD2":"Social policy researchers, consultants and program officers"
+  },
+  {
+    "FIELD1":"4165",
+    "FIELD2":"Health policy researchers, consultants and program officers"
+  },
+  {
+    "FIELD1":"4166",
+    "FIELD2":"Education policy researchers, consultants and program officers"
+  },
+  {
+    "FIELD1":"4167",
+    "FIELD2":"Recreation, sports and fitness policy researchers, consultants and program officers"
+  },
+  {
+    "FIELD1":"4168",
+    "FIELD2":"Program officers unique to government"
+  },
+  {
+    "FIELD1":"4169",
+    "FIELD2":"Other professional occupations in social science, n.e.c."
+  },
+  {
+    "FIELD1":"42",
+    "FIELD2":"Paraprofessional occupations in legal, social, community and education services"
+  },
+  {
+    "FIELD1":"421",
+    "FIELD2":"Paraprofessional occupations in legal, social, community and education services"
+  },
+  {
+    "FIELD1":"4211",
+    "FIELD2":"Paralegal and related occupations"
+  },
+  {
+    "FIELD1":"4212",
+    "FIELD2":"Social and community service workers"
+  },
+  {
+    "FIELD1":"4214",
+    "FIELD2":"Early childhood educators and assistants"
+  },
+  {
+    "FIELD1":"4215",
+    "FIELD2":"Instructors of persons with disabilities"
+  },
+  {
+    "FIELD1":"4216",
+    "FIELD2":"Other instructors"
+  },
+  {
+    "FIELD1":"4217",
+    "FIELD2":"Other religious occupations"
+  },
+  {
+    "FIELD1":"43",
+    "FIELD2":"Occupations in front-line public protection services"
+  },
+  {
+    "FIELD1":"431",
+    "FIELD2":"Occupations in front-line public protection services"
+  },
+  {
+    "FIELD1":"4311",
+    "FIELD2":"Police officers (except commissioned)"
+  },
+  {
+    "FIELD1":"4312",
+    "FIELD2":"Firefighters"
+  },
+  {
+    "FIELD1":"4313",
+    "FIELD2":"Non-commissioned ranks of the Canadian Forces"
+  },
+  {
+    "FIELD1":"44",
+    "FIELD2":"Care providers and educational, legal and public protection support occupations"
+  },
+  {
+    "FIELD1":"441",
+    "FIELD2":"Home care providers and educational support occupations"
+  },
+  {
+    "FIELD1":"4411",
+    "FIELD2":"Home child care providers"
+  },
+  {
+    "FIELD1":"4412",
+    "FIELD2":"Home support workers, housekeepers and related occupations"
+  },
+  {
+    "FIELD1":"4413",
+    "FIELD2":"Elementary and secondary school teacher assistants"
+  },
+  {
+    "FIELD1":"442",
+    "FIELD2":"Legal and public protection support occupations"
+  },
+  {
+    "FIELD1":"4421",
+    "FIELD2":"Sheriffs and bailiffs"
+  },
+  {
+    "FIELD1":"4422",
+    "FIELD2":"Correctional service officers"
+  },
+  {
+    "FIELD1":"4423",
+    "FIELD2":"By-law enforcement and other regulatory officers, n.e.c."
+  },
+  {
+    "FIELD1":"5",
+    "FIELD2":"Occupations in art, culture, recreation and sport"
+  },
+  {
+    "FIELD1":"51",
+    "FIELD2":"Professional occupations in art and culture"
+  },
+  {
+    "FIELD1":"511",
+    "FIELD2":"Librarians, archivists, conservators and curators"
+  },
+  {
+    "FIELD1":"5111",
+    "FIELD2":"Librarians"
+  },
+  {
+    "FIELD1":"5112",
+    "FIELD2":"Conservators and curators"
+  },
+  {
+    "FIELD1":"5113",
+    "FIELD2":"Archivists"
+  },
+  {
+    "FIELD1":"512",
+    "FIELD2":"Writing, translating and related communications professionals"
+  },
+  {
+    "FIELD1":"5121",
+    "FIELD2":"Authors and writers"
+  },
+  {
+    "FIELD1":"5122",
+    "FIELD2":"Editors"
+  },
+  {
+    "FIELD1":"5123",
+    "FIELD2":"Journalists"
+  },
+  {
+    "FIELD1":"5125",
+    "FIELD2":"Translators, terminologists and interpreters"
+  },
+  {
+    "FIELD1":"513",
+    "FIELD2":"Creative and performing artists"
+  },
+  {
+    "FIELD1":"5131",
+    "FIELD2":"Producers, directors, choreographers and related occupations"
+  },
+  {
+    "FIELD1":"5132",
+    "FIELD2":"Conductors, composers and arrangers"
+  },
+  {
+    "FIELD1":"5133",
+    "FIELD2":"Musicians and singers"
+  },
+  {
+    "FIELD1":"5134",
+    "FIELD2":"Dancers"
+  },
+  {
+    "FIELD1":"5135",
+    "FIELD2":"Actors and comedians"
+  },
+  {
+    "FIELD1":"5136",
+    "FIELD2":"Painters, sculptors and other visual artists"
+  },
+  {
+    "FIELD1":"52",
+    "FIELD2":"Technical occupations in art, culture, recreation and sport"
+  },
+  {
+    "FIELD1":"521",
+    "FIELD2":"Technical occupations in libraries, public archives, museums and art galleries"
+  },
+  {
+    "FIELD1":"5211",
+    "FIELD2":"Library and public archive technicians"
+  },
+  {
+    "FIELD1":"5212",
+    "FIELD2":"Technical occupations related to museums and art galleries"
+  },
+  {
+    "FIELD1":"522",
+    "FIELD2":"Photographers, graphic arts technicians and technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts"
+  },
+  {
+    "FIELD1":"5221",
+    "FIELD2":"Photographers"
+  },
+  {
+    "FIELD1":"5222",
+    "FIELD2":"Film and video camera operators"
+  },
+  {
+    "FIELD1":"5223",
+    "FIELD2":"Graphic arts technicians"
+  },
+  {
+    "FIELD1":"5224",
+    "FIELD2":"Broadcast technicians"
+  },
+  {
+    "FIELD1":"5225",
+    "FIELD2":"Audio and video recording technicians"
+  },
+  {
+    "FIELD1":"5226",
+    "FIELD2":"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts"
+  },
+  {
+    "FIELD1":"5227",
+    "FIELD2":"Support occupations in motion pictures, broadcasting, photography and the performing arts"
+  },
+  {
+    "FIELD1":"523",
+    "FIELD2":"Announcers and other performers, n.e.c."
+  },
+  {
+    "FIELD1":"5231",
+    "FIELD2":"Announcers and other broadcasters"
+  },
+  {
+    "FIELD1":"5232",
+    "FIELD2":"Other performers, n.e.c."
+  },
+  {
+    "FIELD1":"524",
+    "FIELD2":"Creative designers and craftspersons"
+  },
+  {
+    "FIELD1":"5241",
+    "FIELD2":"Graphic designers and illustrators"
+  },
+  {
+    "FIELD1":"5242",
+    "FIELD2":"Interior designers and interior decorators"
+  },
+  {
+    "FIELD1":"5243",
+    "FIELD2":"Theatre, fashion, exhibit and other creative designers"
+  },
+  {
+    "FIELD1":"5244",
+    "FIELD2":"Artisans and craftspersons"
+  },
+  {
+    "FIELD1":"5245",
+    "FIELD2":"Patternmakers - textile, leather and fur products"
+  },
+  {
+    "FIELD1":"525",
+    "FIELD2":"Athletes, coaches, referees and related occupations"
+  },
+  {
+    "FIELD1":"5251",
+    "FIELD2":"Athletes"
+  },
+  {
+    "FIELD1":"5252",
+    "FIELD2":"Coaches"
+  },
+  {
+    "FIELD1":"5253",
+    "FIELD2":"Sports officials and referees"
+  },
+  {
+    "FIELD1":"5254",
+    "FIELD2":"Program leaders and instructors in recreation, sport and fitness"
+  },
+  {
+    "FIELD1":"6",
+    "FIELD2":"Sales and service occupations"
+  },
+  {
+    "FIELD1":"62",
+    "FIELD2":"Retail sales supervisors and specialized sales occupations"
+  },
+  {
+    "FIELD1":"621",
+    "FIELD2":"Retail sales supervisors"
+  },
+  {
+    "FIELD1":"6211",
+    "FIELD2":"Retail sales supervisors"
+  },
+  {
+    "FIELD1":"622",
+    "FIELD2":"Technical sales specialists in wholesale trade and retail and wholesale buyers"
+  },
+  {
+    "FIELD1":"6221",
+    "FIELD2":"Technical sales specialists - wholesale trade"
+  },
+  {
+    "FIELD1":"6222",
+    "FIELD2":"Retail and wholesale buyers"
+  },
+  {
+    "FIELD1":"623",
+    "FIELD2":"Insurance, real estate and financial sales occupations"
+  },
+  {
+    "FIELD1":"6231",
+    "FIELD2":"Insurance agents and brokers"
+  },
+  {
+    "FIELD1":"6232",
+    "FIELD2":"Real estate agents and salespersons"
+  },
+  {
+    "FIELD1":"6235",
+    "FIELD2":"Financial sales representatives"
+  },
+  {
+    "FIELD1":"63",
+    "FIELD2":"Service supervisors and specialized service occupations"
+  },
+  {
+    "FIELD1":"631",
+    "FIELD2":"Service supervisors"
+  },
+  {
+    "FIELD1":"6311",
+    "FIELD2":"Food service supervisors"
+  },
+  {
+    "FIELD1":"6312",
+    "FIELD2":"Executive housekeepers"
+  },
+  {
+    "FIELD1":"6313",
+    "FIELD2":"Accommodation, travel, tourism and related services supervisors"
+  },
+  {
+    "FIELD1":"6314",
+    "FIELD2":"Customer and information services supervisors"
+  },
+  {
+    "FIELD1":"6315",
+    "FIELD2":"Cleaning supervisors"
+  },
+  {
+    "FIELD1":"6316",
+    "FIELD2":"Other services supervisors"
+  },
+  {
+    "FIELD1":"632",
+    "FIELD2":"Chefs and cooks"
+  },
+  {
+    "FIELD1":"6321",
+    "FIELD2":"Chefs"
+  },
+  {
+    "FIELD1":"6322",
+    "FIELD2":"Cooks"
+  },
+  {
+    "FIELD1":"633",
+    "FIELD2":"Butchers and bakers"
+  },
+  {
+    "FIELD1":"6331",
+    "FIELD2":"Butchers, meat cutters and fishmongers - retail and wholesale"
+  },
+  {
+    "FIELD1":"6332",
+    "FIELD2":"Bakers"
+  },
+  {
+    "FIELD1":"634",
+    "FIELD2":"Specialized occupations in personal and customer services"
+  },
+  {
+    "FIELD1":"6341",
+    "FIELD2":"Hairstylists and barbers"
+  },
+  {
+    "FIELD1":"6342",
+    "FIELD2":"Tailors, dressmakers, furriers and milliners"
+  },
+  {
+    "FIELD1":"6343",
+    "FIELD2":"Shoe repairers and shoemakers"
+  },
+  {
+    "FIELD1":"6344",
+    "FIELD2":"Jewellers, jewellery and watch repairers and related occupations"
+  },
+  {
+    "FIELD1":"6345",
+    "FIELD2":"Upholsterers"
+  },
+  {
+    "FIELD1":"6346",
+    "FIELD2":"Funeral directors and embalmers"
+  },
+  {
+    "FIELD1":"64",
+    "FIELD2":"Sales representatives and salespersons - wholesale and retail trade"
+  },
+  {
+    "FIELD1":"641",
+    "FIELD2":"Sales and account representatives - wholesale trade (non-technical)"
+  },
+  {
+    "FIELD1":"6411",
+    "FIELD2":"Sales and account representatives - wholesale trade (non-technical)"
+  },
+  {
+    "FIELD1":"642",
+    "FIELD2":"Retail salespersons"
+  },
+  {
+    "FIELD1":"6421",
+    "FIELD2":"Retail salespersons"
+  },
+  {
+    "FIELD1":"65",
+    "FIELD2":"Service representatives and other customer and personal services occupations"
+  },
+  {
+    "FIELD1":"651",
+    "FIELD2":"Occupations in food and beverage service"
+  },
+  {
+    "FIELD1":"6511",
+    "FIELD2":"Ma&#50;tres d'h&#50;tel and hosts/hostesses"
+  },
+  {
+    "FIELD1":"6512",
+    "FIELD2":"Bartenders"
+  },
+  {
+    "FIELD1":"6513",
+    "FIELD2":"Food and beverage servers"
+  },
+  {
+    "FIELD1":"652",
+    "FIELD2":"Occupations in travel and accommodation"
+  },
+  {
+    "FIELD1":"6521",
+    "FIELD2":"Travel counsellors"
+  },
+  {
+    "FIELD1":"6522",
+    "FIELD2":"Pursers and flight attendants"
+  },
+  {
+    "FIELD1":"6523",
+    "FIELD2":"Airline ticket and service agents"
+  },
+  {
+    "FIELD1":"6524",
+    "FIELD2":"Ground and water transport ticket agents, cargo service representatives and related clerks"
+  },
+  {
+    "FIELD1":"6525",
+    "FIELD2":"Hotel front desk clerks"
+  },
+  {
+    "FIELD1":"653",
+    "FIELD2":"Tourism and amusement services occupations"
+  },
+  {
+    "FIELD1":"6531",
+    "FIELD2":"Tour and travel guides"
+  },
+  {
+    "FIELD1":"6532",
+    "FIELD2":"Outdoor sport and recreational guides"
+  },
+  {
+    "FIELD1":"6533",
+    "FIELD2":"Casino occupations"
+  },
+  {
+    "FIELD1":"654",
+    "FIELD2":"Security guards and related security service occupations"
+  },
+  {
+    "FIELD1":"6541",
+    "FIELD2":"Security guards and related security service occupations"
+  },
+  {
+    "FIELD1":"655",
+    "FIELD2":"Customer and information services representatives"
+  },
+  {
+    "FIELD1":"6551",
+    "FIELD2":"Customer services representatives - financial institutions"
+  },
+  {
+    "FIELD1":"6552",
+    "FIELD2":"Other customer and information services representatives"
+  },
+  {
+    "FIELD1":"656",
+    "FIELD2":"Other occupations in personal service"
+  },
+  {
+    "FIELD1":"6561",
+    "FIELD2":"Image, social and other personal consultants"
+  },
+  {
+    "FIELD1":"6562",
+    "FIELD2":"Estheticians, electrologists and related occupations"
+  },
+  {
+    "FIELD1":"6563",
+    "FIELD2":"Pet groomers and animal care workers"
+  },
+  {
+    "FIELD1":"6564",
+    "FIELD2":"Other personal service occupations"
+  },
+  {
+    "FIELD1":"66",
+    "FIELD2":"Sales support occupations"
+  },
+  {
+    "FIELD1":"661",
+    "FIELD2":"Cashiers"
+  },
+  {
+    "FIELD1":"6611",
+    "FIELD2":"Cashiers"
+  },
+  {
+    "FIELD1":"662",
+    "FIELD2":"Other sales support and related occupations"
+  },
+  {
+    "FIELD1":"6621",
+    "FIELD2":"Service station attendants"
+  },
+  {
+    "FIELD1":"6622",
+    "FIELD2":"Store shelf stockers, clerks and order fillers"
+  },
+  {
+    "FIELD1":"6623",
+    "FIELD2":"Other sales related occupations"
+  },
+  {
+    "FIELD1":"67",
+    "FIELD2":"Service support and other service occupations, n.e.c."
+  },
+  {
+    "FIELD1":"671",
+    "FIELD2":"Food counter attendants, kitchen helpers and related support occupations"
+  },
+  {
+    "FIELD1":"6711",
+    "FIELD2":"Food counter attendants, kitchen helpers and related support occupations"
+  },
+  {
+    "FIELD1":"672",
+    "FIELD2":"Support occupations in accommodation, travel and amusement services"
+  },
+  {
+    "FIELD1":"6721",
+    "FIELD2":"Support occupations in accommodation, travel and facilities set-up services"
+  },
+  {
+    "FIELD1":"6722",
+    "FIELD2":"Operators and attendants in amusement, recreation and sport"
+  },
+  {
+    "FIELD1":"673",
+    "FIELD2":"Cleaners"
+  },
+  {
+    "FIELD1":"6731",
+    "FIELD2":"Light duty cleaners"
+  },
+  {
+    "FIELD1":"6732",
+    "FIELD2":"Specialized cleaners"
+  },
+  {
+    "FIELD1":"6733",
+    "FIELD2":"Janitors, caretakers and building superintendents"
+  },
+  {
+    "FIELD1":"674",
+    "FIELD2":"Other service support and related occupations, n.e.c."
+  },
+  {
+    "FIELD1":"6741",
+    "FIELD2":"Dry cleaning, laundry and related occupations"
+  },
+  {
+    "FIELD1":"6742",
+    "FIELD2":"Other service support occupations, n.e.c."
+  },
+  {
+    "FIELD1":"7",
+    "FIELD2":"Trades, transport and equipment operators and related occupations"
+  },
+  {
+    "FIELD1":"72",
+    "FIELD2":"Industrial, electrical and construction trades"
+  },
+  {
+    "FIELD1":"720",
+    "FIELD2":"Contractors and supervisors, industrial, electrical and construction trades and related workers"
+  },
+  {
+    "FIELD1":"7201",
+    "FIELD2":"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations"
+  },
+  {
+    "FIELD1":"7202",
+    "FIELD2":"Contractors and supervisors, electrical trades and telecommunications occupations"
+  },
+  {
+    "FIELD1":"7203",
+    "FIELD2":"Contractors and supervisors, pipefitting trades"
+  },
+  {
+    "FIELD1":"7204",
+    "FIELD2":"Contractors and supervisors, carpentry trades"
+  },
+  {
+    "FIELD1":"7205",
+    "FIELD2":"Contractors and supervisors, other construction trades, installers, repairers and servicers"
+  },
+  {
+    "FIELD1":"723",
+    "FIELD2":"Machining, metal forming, shaping and erecting trades"
+  },
+  {
+    "FIELD1":"7231",
+    "FIELD2":"Machinists and machining and tooling inspectors"
+  },
+  {
+    "FIELD1":"7232",
+    "FIELD2":"Tool and die makers"
+  },
+  {
+    "FIELD1":"7233",
+    "FIELD2":"Sheet metal workers"
+  },
+  {
+    "FIELD1":"7234",
+    "FIELD2":"Boilermakers"
+  },
+  {
+    "FIELD1":"7235",
+    "FIELD2":"Structural metal and platework fabricators and fitters"
+  },
+  {
+    "FIELD1":"7236",
+    "FIELD2":"Ironworkers"
+  },
+  {
+    "FIELD1":"7237",
+    "FIELD2":"Welders and related machine operators"
+  },
+  {
+    "FIELD1":"724",
+    "FIELD2":"Electrical trades and electrical power line and telecommunications workers"
+  },
+  {
+    "FIELD1":"7241",
+    "FIELD2":"Electricians (except industrial and power system)"
+  },
+  {
+    "FIELD1":"7242",
+    "FIELD2":"Industrial electricians"
+  },
+  {
+    "FIELD1":"7243",
+    "FIELD2":"Power system electricians"
+  },
+  {
+    "FIELD1":"7244",
+    "FIELD2":"Electrical power line and cable workers"
+  },
+  {
+    "FIELD1":"7245",
+    "FIELD2":"Telecommunications line and cable workers"
+  },
+  {
+    "FIELD1":"7246",
+    "FIELD2":"Telecommunications installation and repair workers"
+  },
+  {
+    "FIELD1":"7247",
+    "FIELD2":"Cable television service and maintenance technicians"
+  },
+  {
+    "FIELD1":"725",
+    "FIELD2":"Plumbers, pipefitters and gas fitters"
+  },
+  {
+    "FIELD1":"7251",
+    "FIELD2":"Plumbers"
+  },
+  {
+    "FIELD1":"7252",
+    "FIELD2":"Steamfitters, pipefitters and sprinkler system installers"
+  },
+  {
+    "FIELD1":"7253",
+    "FIELD2":"Gas fitters"
+  },
+  {
+    "FIELD1":"727",
+    "FIELD2":"Carpenters and cabinetmakers"
+  },
+  {
+    "FIELD1":"7271",
+    "FIELD2":"Carpenters"
+  },
+  {
+    "FIELD1":"7272",
+    "FIELD2":"Cabinetmakers"
+  },
+  {
+    "FIELD1":"728",
+    "FIELD2":"Masonry and plastering trades"
+  },
+  {
+    "FIELD1":"7281",
+    "FIELD2":"Bricklayers"
+  },
+  {
+    "FIELD1":"7282",
+    "FIELD2":"Concrete finishers"
+  },
+  {
+    "FIELD1":"7283",
+    "FIELD2":"Tilesetters"
+  },
+  {
+    "FIELD1":"7284",
+    "FIELD2":"Plasterers, drywall installers and finishers and lathers"
+  },
+  {
+    "FIELD1":"729",
+    "FIELD2":"Other construction trades"
+  },
+  {
+    "FIELD1":"7291",
+    "FIELD2":"Roofers and shinglers"
+  },
+  {
+    "FIELD1":"7292",
+    "FIELD2":"Glaziers"
+  },
+  {
+    "FIELD1":"7293",
+    "FIELD2":"Insulators"
+  },
+  {
+    "FIELD1":"7294",
+    "FIELD2":"Painters and decorators (except interior decorators)"
+  },
+  {
+    "FIELD1":"7295",
+    "FIELD2":"Floor covering installers"
+  },
+  {
+    "FIELD1":"73",
+    "FIELD2":"Maintenance and equipment operation trades"
+  },
+  {
+    "FIELD1":"730",
+    "FIELD2":"Contractors and supervisors, maintenance trades and heavy equipment and transport operators"
+  },
+  {
+    "FIELD1":"7301",
+    "FIELD2":"Contractors and supervisors, mechanic trades"
+  },
+  {
+    "FIELD1":"7302",
+    "FIELD2":"Contractors and supervisors, heavy equipment operator crews"
+  },
+  {
+    "FIELD1":"7303",
+    "FIELD2":"Supervisors, printing and related occupations"
+  },
+  {
+    "FIELD1":"7304",
+    "FIELD2":"Supervisors, railway transport operations"
+  },
+  {
+    "FIELD1":"7305",
+    "FIELD2":"Supervisors, motor transport and other ground transit operators"
+  },
+  {
+    "FIELD1":"731",
+    "FIELD2":"Machinery and transportation equipment mechanics (except motor vehicle)"
+  },
+  {
+    "FIELD1":"7311",
+    "FIELD2":"Construction millwrights and industrial mechanics"
+  },
+  {
+    "FIELD1":"7312",
+    "FIELD2":"Heavy-duty equipment mechanics"
+  },
+  {
+    "FIELD1":"7313",
+    "FIELD2":"Refrigeration and air conditioning mechanics"
+  },
+  {
+    "FIELD1":"7314",
+    "FIELD2":"Railway carmen/women"
+  },
+  {
+    "FIELD1":"7315",
+    "FIELD2":"Aircraft mechanics and aircraft inspectors"
+  },
+  {
+    "FIELD1":"7316",
+    "FIELD2":"Machine fitters"
+  },
+  {
+    "FIELD1":"7318",
+    "FIELD2":"Elevator constructors and mechanics"
+  },
+  {
+    "FIELD1":"732",
+    "FIELD2":"Automotive service technicians"
+  },
+  {
+    "FIELD1":"7321",
+    "FIELD2":"Automotive service technicians, truck and bus mechanics and mechanical repairers"
+  },
+  {
+    "FIELD1":"7322",
+    "FIELD2":"Motor vehicle body repairers"
+  },
+  {
+    "FIELD1":"733",
+    "FIELD2":"Other mechanics and related repairers"
+  },
+  {
+    "FIELD1":"7331",
+    "FIELD2":"Oil and solid fuel heating mechanics"
+  },
+  {
+    "FIELD1":"7332",
+    "FIELD2":"Appliance servicers and repairers"
+  },
+  {
+    "FIELD1":"7333",
+    "FIELD2":"Electrical mechanics"
+  },
+  {
+    "FIELD1":"7334",
+    "FIELD2":"Motorcycle, all-terrain vehicle and other related mechanics"
+  },
+  {
+    "FIELD1":"7335",
+    "FIELD2":"Other small engine and small equipment repairers"
+  },
+  {
+    "FIELD1":"736",
+    "FIELD2":"Train crew operating occupations"
+  },
+  {
+    "FIELD1":"7361",
+    "FIELD2":"Railway and yard locomotive engineers"
+  },
+  {
+    "FIELD1":"7362",
+    "FIELD2":"Railway conductors and brakemen/women"
+  },
+  {
+    "FIELD1":"737",
+    "FIELD2":"Crane operators, drillers and blasters"
+  },
+  {
+    "FIELD1":"7371",
+    "FIELD2":"Crane operators"
+  },
+  {
+    "FIELD1":"7372",
+    "FIELD2":"Drillers and blasters - surface mining, quarrying and construction"
+  },
+  {
+    "FIELD1":"7373",
+    "FIELD2":"Water well drillers"
+  },
+  {
+    "FIELD1":"738",
+    "FIELD2":"Printing press operators and other trades and related occupations, n.e.c."
+  },
+  {
+    "FIELD1":"7381",
+    "FIELD2":"Printing press operators"
+  },
+  {
+    "FIELD1":"7384",
+    "FIELD2":"Other trades and related occupations, n.e.c."
+  },
+  {
+    "FIELD1":"74",
+    "FIELD2":"Other installers, repairers and servicers and material handlers"
+  },
+  {
+    "FIELD1":"744",
+    "FIELD2":"Other installers, repairers and servicers"
+  },
+  {
+    "FIELD1":"7441",
+    "FIELD2":"Residential and commercial installers and servicers"
+  },
+  {
+    "FIELD1":"7442",
+    "FIELD2":"Waterworks and gas maintenance workers"
+  },
+  {
+    "FIELD1":"7444",
+    "FIELD2":"Pest controllers and fumigators"
+  },
+  {
+    "FIELD1":"7445",
+    "FIELD2":"Other repairers and servicers"
+  },
+  {
+    "FIELD1":"745",
+    "FIELD2":"Longshore workers and material handlers"
+  },
+  {
+    "FIELD1":"7451",
+    "FIELD2":"Longshore workers"
+  },
+  {
+    "FIELD1":"7452",
+    "FIELD2":"Material handlers"
+  },
+  {
+    "FIELD1":"75",
+    "FIELD2":"Transport and heavy equipment operation and related maintenance occupations"
+  },
+  {
+    "FIELD1":"751",
+    "FIELD2":"Motor vehicle and transit drivers"
+  },
+  {
+    "FIELD1":"7511",
+    "FIELD2":"Transport truck drivers"
+  },
+  {
+    "FIELD1":"7512",
+    "FIELD2":"Bus drivers, subway operators and other transit operators"
+  },
+  {
+    "FIELD1":"7513",
+    "FIELD2":"Taxi and limousine drivers and chauffeurs"
+  },
+  {
+    "FIELD1":"7514",
+    "FIELD2":"Delivery and courier service drivers"
+  },
+  {
+    "FIELD1":"752",
+    "FIELD2":"Heavy equipment operators"
+  },
+  {
+    "FIELD1":"7521",
+    "FIELD2":"Heavy equipment operators (except crane)"
+  },
+  {
+    "FIELD1":"7522",
+    "FIELD2":"Public works maintenance equipment operators and related workers"
+  },
+  {
+    "FIELD1":"753",
+    "FIELD2":"Other transport equipment operators and related maintenance workers"
+  },
+  {
+    "FIELD1":"7531",
+    "FIELD2":"Railway yard and track maintenance workers"
+  },
+  {
+    "FIELD1":"7532",
+    "FIELD2":"Water transport deck and engine room crew"
+  },
+  {
+    "FIELD1":"7533",
+    "FIELD2":"Boat and cable ferry operators and related occupations"
+  },
+  {
+    "FIELD1":"7534",
+    "FIELD2":"Air transport ramp attendants"
+  },
+  {
+    "FIELD1":"7535",
+    "FIELD2":"Other automotive mechanical installers and servicers"
+  },
+  {
+    "FIELD1":"76",
+    "FIELD2":"Trades helpers, construction labourers and related occupations"
+  },
+  {
+    "FIELD1":"761",
+    "FIELD2":"Trades helpers and labourers"
+  },
+  {
+    "FIELD1":"7611",
+    "FIELD2":"Construction trades helpers and labourers"
+  },
+  {
+    "FIELD1":"7612",
+    "FIELD2":"Other trades helpers and labourers"
+  },
+  {
+    "FIELD1":"762",
+    "FIELD2":"Public works and other labourers, n.e.c."
+  },
+  {
+    "FIELD1":"7621",
+    "FIELD2":"Public works and maintenance labourers"
+  },
+  {
+    "FIELD1":"7622",
+    "FIELD2":"Railway and motor transport labourers"
+  },
+  {
+    "FIELD1":"8",
+    "FIELD2":"Natural resources, agriculture and related production occupations"
+  },
+  {
+    "FIELD1":"82",
+    "FIELD2":"Supervisors and technical occupations in natural resources, agriculture and related production"
+  },
+  {
+    "FIELD1":"821",
+    "FIELD2":"Supervisors, logging and forestry"
+  },
+  {
+    "FIELD1":"8211",
+    "FIELD2":"Supervisors, logging and forestry"
+  },
+  {
+    "FIELD1":"822",
+    "FIELD2":"Contractors and supervisors, mining, oil and gas"
+  },
+  {
+    "FIELD1":"8221",
+    "FIELD2":"Supervisors, mining and quarrying"
+  },
+  {
+    "FIELD1":"8222",
+    "FIELD2":"Contractors and supervisors, oil and gas drilling and services"
+  },
+  {
+    "FIELD1":"823",
+    "FIELD2":"Underground miners, oil and gas drillers and related occupations"
+  },
+  {
+    "FIELD1":"8231",
+    "FIELD2":"Underground production and development miners"
+  },
+  {
+    "FIELD1":"8232",
+    "FIELD2":"Oil and gas well drillers, servicers, testers and related workers"
+  },
+  {
+    "FIELD1":"824",
+    "FIELD2":"Logging machinery operators"
+  },
+  {
+    "FIELD1":"8241",
+    "FIELD2":"Logging machinery operators"
+  },
+  {
+    "FIELD1":"825",
+    "FIELD2":"Contractors and supervisors, agriculture, horticulture and related operations and services"
+  },
+  {
+    "FIELD1":"8252",
+    "FIELD2":"Agricultural service contractors, farm supervisors and specialized livestock workers"
+  },
+  {
+    "FIELD1":"8255",
+    "FIELD2":"Contractors and supervisors, landscaping, grounds maintenance and horticulture services"
+  },
+  {
+    "FIELD1":"826",
+    "FIELD2":"Fishing vessel masters and fishermen/women"
+  },
+  {
+    "FIELD1":"8261",
+    "FIELD2":"Fishing masters and officers"
+  },
+  {
+    "FIELD1":"8262",
+    "FIELD2":"Fishermen/women"
+  },
+  {
+    "FIELD1":"84",
+    "FIELD2":"Workers in natural resources, agriculture and related production"
+  },
+  {
+    "FIELD1":"841",
+    "FIELD2":"Mine service workers and operators in oil and gas drilling"
+  },
+  {
+    "FIELD1":"8411",
+    "FIELD2":"Underground mine service and support workers"
+  },
+  {
+    "FIELD1":"8412",
+    "FIELD2":"Oil and gas well drilling and related workers and services operators"
+  },
+  {
+    "FIELD1":"842",
+    "FIELD2":"Logging and forestry workers"
+  },
+  {
+    "FIELD1":"8421",
+    "FIELD2":"Chain saw and skidder operators"
+  },
+  {
+    "FIELD1":"8422",
+    "FIELD2":"Silviculture and forestry workers"
+  },
+  {
+    "FIELD1":"843",
+    "FIELD2":"Agriculture and horticulture workers"
+  },
+  {
+    "FIELD1":"8431",
+    "FIELD2":"General farm workers"
+  },
+  {
+    "FIELD1":"8432",
+    "FIELD2":"Nursery and greenhouse workers"
+  },
+  {
+    "FIELD1":"844",
+    "FIELD2":"Other workers in fishing and trapping and hunting occupations"
+  },
+  {
+    "FIELD1":"8441",
+    "FIELD2":"Fishing vessel deckhands"
+  },
+  {
+    "FIELD1":"8442",
+    "FIELD2":"Trappers and hunters"
+  },
+  {
+    "FIELD1":"86",
+    "FIELD2":"Harvesting, landscaping and natural resources labourers"
+  },
+  {
+    "FIELD1":"861",
+    "FIELD2":"Harvesting, landscaping and natural resources labourers"
+  },
+  {
+    "FIELD1":"8611",
+    "FIELD2":"Harvesting labourers"
+  },
+  {
+    "FIELD1":"8612",
+    "FIELD2":"Landscaping and grounds maintenance labourers"
+  },
+  {
+    "FIELD1":"8613",
+    "FIELD2":"Aquaculture and marine harvest labourers"
+  },
+  {
+    "FIELD1":"8614",
+    "FIELD2":"Mine labourers"
+  },
+  {
+    "FIELD1":"8615",
+    "FIELD2":"Oil and gas drilling, servicing and related labourers"
+  },
+  {
+    "FIELD1":"8616",
+    "FIELD2":"Logging and forestry labourers"
+  },
+  {
+    "FIELD1":"9",
+    "FIELD2":"Occupations in manufacturing and utilities"
+  },
+  {
+    "FIELD1":"92",
+    "FIELD2":"Processing, manufacturing and utilities supervisors and central control operators"
+  },
+  {
+    "FIELD1":"921",
+    "FIELD2":"Supervisors, processing and manufacturing occupations"
+  },
+  {
+    "FIELD1":"9211",
+    "FIELD2":"Supervisors, mineral and metal processing"
+  },
+  {
+    "FIELD1":"9212",
+    "FIELD2":"Supervisors, petroleum, gas and chemical processing and utilities"
+  },
+  {
+    "FIELD1":"9213",
+    "FIELD2":"Supervisors, food, beverage and associated products processing"
+  },
+  {
+    "FIELD1":"9214",
+    "FIELD2":"Supervisors, plastic and rubber products manufacturing"
+  },
+  {
+    "FIELD1":"9215",
+    "FIELD2":"Supervisors, forest products processing"
+  },
+  {
+    "FIELD1":"9217",
+    "FIELD2":"Supervisors, textile, fabric, fur and leather products processing and manufacturing"
+  },
+  {
+    "FIELD1":"922",
+    "FIELD2":"Supervisors, assembly and fabrication"
+  },
+  {
+    "FIELD1":"9221",
+    "FIELD2":"Supervisors, motor vehicle assembling"
+  },
+  {
+    "FIELD1":"9222",
+    "FIELD2":"Supervisors, electronics manufacturing"
+  },
+  {
+    "FIELD1":"9223",
+    "FIELD2":"Supervisors, electrical products manufacturing"
+  },
+  {
+    "FIELD1":"9224",
+    "FIELD2":"Supervisors, furniture and fixtures manufacturing"
+  },
+  {
+    "FIELD1":"9226",
+    "FIELD2":"Supervisors, other mechanical and metal products manufacturing"
+  },
+  {
+    "FIELD1":"9227",
+    "FIELD2":"Supervisors, other products manufacturing and assembly"
+  },
+  {
+    "FIELD1":"923",
+    "FIELD2":"Central control and process operators in processing and manufacturing"
+  },
+  {
+    "FIELD1":"9231",
+    "FIELD2":"Central control and process operators, mineral and metal processing"
+  },
+  {
+    "FIELD1":"9232",
+    "FIELD2":"Petroleum, gas and chemical process operators"
+  },
+  {
+    "FIELD1":"9235",
+    "FIELD2":"Pulping, papermaking and coating control operators"
+  },
+  {
+    "FIELD1":"924",
+    "FIELD2":"Utilities equipment operators and controllers"
+  },
+  {
+    "FIELD1":"9241",
+    "FIELD2":"Power engineers and power systems operators"
+  },
+  {
+    "FIELD1":"9243",
+    "FIELD2":"Water and waste treatment plant operators"
+  },
+  {
+    "FIELD1":"94",
+    "FIELD2":"Processing and manufacturing machine operators and related production workers"
+  },
+  {
+    "FIELD1":"941",
+    "FIELD2":"Machine operators and related workers in mineral and metal products processing and manufacturing"
+  },
+  {
+    "FIELD1":"9411",
+    "FIELD2":"Machine operators, mineral and metal processing"
+  },
+  {
+    "FIELD1":"9412",
+    "FIELD2":"Foundry workers"
+  },
+  {
+    "FIELD1":"9413",
+    "FIELD2":"Glass forming and finishing machine operators and glass cutters"
+  },
+  {
+    "FIELD1":"9414",
+    "FIELD2":"Concrete, clay and stone forming operators"
+  },
+  {
+    "FIELD1":"9415",
+    "FIELD2":"Inspectors and testers, mineral and metal processing"
+  },
+  {
+    "FIELD1":"9416",
+    "FIELD2":"Metalworking and forging machine operators"
+  },
+  {
+    "FIELD1":"9417",
+    "FIELD2":"Machining tool operators"
+  },
+  {
+    "FIELD1":"9418",
+    "FIELD2":"Other metal products machine operators"
+  },
+  {
+    "FIELD1":"942",
+    "FIELD2":"Machine operators and related workers in chemical, plastic and rubber processing"
+  },
+  {
+    "FIELD1":"9421",
+    "FIELD2":"Chemical plant machine operators"
+  },
+  {
+    "FIELD1":"9422",
+    "FIELD2":"Plastics processing machine operators"
+  },
+  {
+    "FIELD1":"9423",
+    "FIELD2":"Rubber processing machine operators and related workers"
+  },
+  {
+    "FIELD1":"943",
+    "FIELD2":"Machine operators and related workers in pulp and paper production and wood processing and manufacturing"
+  },
+  {
+    "FIELD1":"9431",
+    "FIELD2":"Sawmill machine operators"
+  },
+  {
+    "FIELD1":"9432",
+    "FIELD2":"Pulp mill machine operators"
+  },
+  {
+    "FIELD1":"9433",
+    "FIELD2":"Papermaking and finishing machine operators"
+  },
+  {
+    "FIELD1":"9434",
+    "FIELD2":"Other wood processing machine operators"
+  },
+  {
+    "FIELD1":"9435",
+    "FIELD2":"Paper converting machine operators"
+  },
+  {
+    "FIELD1":"9436",
+    "FIELD2":"Lumber graders and other wood processing inspectors and graders"
+  },
+  {
+    "FIELD1":"9437",
+    "FIELD2":"Woodworking machine operators"
+  },
+  {
+    "FIELD1":"944",
+    "FIELD2":"Machine operators and related workers in textile, fabric, fur and leather products processing and manufacturing"
+  },
+  {
+    "FIELD1":"9441",
+    "FIELD2":"Textile fibre and yarn, hide and pelt processing machine operators and workers"
+  },
+  {
+    "FIELD1":"9442",
+    "FIELD2":"Weavers, knitters and other fabric making occupations"
+  },
+  {
+    "FIELD1":"9445",
+    "FIELD2":"Fabric, fur and leather cutters"
+  },
+  {
+    "FIELD1":"9446",
+    "FIELD2":"Industrial sewing machine operators"
+  },
+  {
+    "FIELD1":"9447",
+    "FIELD2":"Inspectors and graders, textile, fabric, fur and leather products manufacturing"
+  },
+  {
+    "FIELD1":"946",
+    "FIELD2":"Machine operators and related workers in food, beverage and associated products processing"
+  },
+  {
+    "FIELD1":"9461",
+    "FIELD2":"Process control and machine operators, food, beverage and associated products processing"
+  },
+  {
+    "FIELD1":"9462",
+    "FIELD2":"Industrial butchers and meat cutters, poultry preparers and related workers"
+  },
+  {
+    "FIELD1":"9463",
+    "FIELD2":"Fish and seafood plant workers"
+  },
+  {
+    "FIELD1":"9465",
+    "FIELD2":"Testers and graders, food, beverage and associated products processing"
+  },
+  {
+    "FIELD1":"947",
+    "FIELD2":"Printing equipment operators and related occupations"
+  },
+  {
+    "FIELD1":"9471",
+    "FIELD2":"Plateless printing equipment operators"
+  },
+  {
+    "FIELD1":"9472",
+    "FIELD2":"Camera, platemaking and other prepress occupations"
+  },
+  {
+    "FIELD1":"9473",
+    "FIELD2":"Binding and finishing machine operators"
+  },
+  {
+    "FIELD1":"9474",
+    "FIELD2":"Photographic and film processors"
+  },
+  {
+    "FIELD1":"95",
+    "FIELD2":"Assemblers in manufacturing"
+  },
+  {
+    "FIELD1":"952",
+    "FIELD2":"Mechanical, electrical and electronics assemblers"
+  },
+  {
+    "FIELD1":"9521",
+    "FIELD2":"Aircraft assemblers and aircraft assembly inspectors"
+  },
+  {
+    "FIELD1":"9522",
+    "FIELD2":"Motor vehicle assemblers, inspectors and testers"
+  },
+  {
+    "FIELD1":"9523",
+    "FIELD2":"Electronics assemblers, fabricators, inspectors and testers"
+  },
+  {
+    "FIELD1":"9524",
+    "FIELD2":"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing"
+  },
+  {
+    "FIELD1":"9525",
+    "FIELD2":"Assemblers, fabricators and inspectors, industrial electrical motors and transformers"
+  },
+  {
+    "FIELD1":"9526",
+    "FIELD2":"Mechanical assemblers and inspectors"
+  },
+  {
+    "FIELD1":"9527",
+    "FIELD2":"Machine operators and inspectors, electrical apparatus manufacturing"
+  },
+  {
+    "FIELD1":"953",
+    "FIELD2":"Other assembly and related occupations"
+  },
+  {
+    "FIELD1":"9531",
+    "FIELD2":"Boat assemblers and inspectors"
+  },
+  {
+    "FIELD1":"9532",
+    "FIELD2":"Furniture and fixture assemblers and inspectors"
+  },
+  {
+    "FIELD1":"9533",
+    "FIELD2":"Other wood products assemblers and inspectors"
+  },
+  {
+    "FIELD1":"9534",
+    "FIELD2":"Furniture finishers and refinishers"
+  },
+  {
+    "FIELD1":"9535",
+    "FIELD2":"Plastic products assemblers, finishers and inspectors"
+  },
+  {
+    "FIELD1":"9536",
+    "FIELD2":"Industrial painters, coaters and metal finishing process operators"
+  },
+  {
+    "FIELD1":"9537",
+    "FIELD2":"Other products assemblers, finishers and inspectors"
+  },
+  {
+    "FIELD1":"96",
+    "FIELD2":"Labourers in processing, manufacturing and utilities"
+  },
+  {
+    "FIELD1":"961",
+    "FIELD2":"Labourers in processing, manufacturing and utilities"
+  },
+  {
+    "FIELD1":"9611",
+    "FIELD2":"Labourers in mineral and metal processing"
+  },
+  {
+    "FIELD1":"9612",
+    "FIELD2":"Labourers in metal fabrication"
+  },
+  {
+    "FIELD1":"9613",
+    "FIELD2":"Labourers in chemical products processing and utilities"
+  },
+  {
+    "FIELD1":"9614",
+    "FIELD2":"Labourers in wood, pulp and paper processing"
+  },
+  {
+    "FIELD1":"9615",
+    "FIELD2":"Labourers in rubber and plastic products manufacturing"
+  },
+  {
+    "FIELD1":"9616",
+    "FIELD2":"Labourers in textile processing"
+  },
+  {
+    "FIELD1":"9617",
+    "FIELD2":"Labourers in food, beverage and associated products processing"
+  },
+  {
+    "FIELD1":"9618",
+    "FIELD2":"Labourers in fish and seafood processing"
+  },
+  {
+    "FIELD1":"9619",
+    "FIELD2":"Other labourers in processing, manufacturing and utilities"
+  }
+]

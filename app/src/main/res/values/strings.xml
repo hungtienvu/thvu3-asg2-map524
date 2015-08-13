@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NOC Lookup</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cat_listing">Browse NOC By Category</string>
+    <string name="table_title">(NOC) 2011</string>
+    <string name="author_copy">Made by Steve Vu</string>
+    <string name="title_activity_nocdetails">NOCDetails</string>
+    <string name="title_activity_search_noc">SearchNOC</string>
+
+</resources>
