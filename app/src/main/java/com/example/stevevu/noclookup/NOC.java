@@ -62,7 +62,7 @@ public class NOC {
 
         if(code.length()==4) {
             if(first.equals("0")){
-                return "A";
+                return "0";
 
             }else{
                 switch (second) {

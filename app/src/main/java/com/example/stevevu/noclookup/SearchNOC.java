@@ -81,10 +81,12 @@ public class SearchNOC extends Activity {
     }
 
 
+    //only level 4 NOC will be show up
     public List getListDesc(List<NOC> noc){
         ArrayList<String> list = new ArrayList<>();
         for(NOC n: noc)
-            list.add(n.getDesc());
+            if(n.getCode().length()==4)
+                list.add(n.getDesc());
         return list;
     }
 

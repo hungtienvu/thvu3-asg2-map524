@@ -33,9 +33,9 @@ public class NOCDetails extends Activity {
         }
 
         String noc_code = new String();
-        Bundle extras = getIntent().getExtras();
-        if(extras!=null)
-            noc_code = extras.getString("NOC_CODE");
+        Intent intent = getIntent();
+        if(intent.hasExtra("NOC_CODE"));
+            noc_code = intent.getStringExtra("NOC_CODE");
 
         if(noc_code!=null) {
 
